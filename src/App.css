@@ -1,0 +1,53 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 400px;
+  margin: 50px;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  background-image: url(phone.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 600px;
+}
+
+.btn1{
+  
+  padding-right: 20px;
+  padding-left: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+  padding-top: 1px;
+  background-color:rgb(136, 236, 235);
+  border-radius: 5px; 
+  font-size: 15px;
+  font-weight: bold;
+  font-style: italic;
+}
+.btn2{
+  padding-right: 20px;
+  padding-left: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+  padding-top: 1px;
+  background-color:rgb(240, 215, 126);
+  border-radius: 5px;
+  font-size: 15px;
+  font-weight: bold;
+  font-style: italic;
+}
+.btn3{
+  padding-right: 20px;
+  padding-left: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+  padding-top: 1px;
+  background-color:rgb(236, 131, 131);
+  border-radius: 5px;
+  font-size: 15px;
+  font-weight: bold;
+  font-style: italic;
+  
+}
